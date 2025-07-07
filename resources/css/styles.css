@@ -1,36 +1,35 @@
-body{ 
-    background-color: #000;
-    text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+body {
+  background-color: #000;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 /* headings */
-.header--main{ 
-    font-weight: normal;
-    font-size: 50px;
-    color: #ffff;
+.header--main {
+  font-weight: normal;
+  font-size: 50px;
+  color: #ffff;
 }
 
-.header--secondary{ 
-    font-weight: 300;
-    font-size: 42px;
-    color: #ffff;
+.header--secondary {
+  font-weight: 300;
+  font-size: 42px;
+  color: #ffff;
 }
 
-.header--fourth{ 
-    font-size: 21px;
-    color: gray;
+.header--fourth {
+  font-size: 21px;
+  color: gray;
 }
 
-.link--cta{ 
-font-size: 16px;
-color: aquamarine;
-
+.link--cta {
+  font-size: 16px;
+  color: aquamarine;
 }
 
 /* Footer */
-.link--cta { 
-    font-size: 16px;
-    color: gray;
-    text-align: right;
+.link--cta {
+  font-size: 16px;
+  color: gray;
+  text-align: right;
 }
